@@ -126,7 +126,16 @@ A função então executa a consulta no índice e retorna os resultados. Para ca
 
 Para rodar o projeto, basta executar a utlima célula do google Colab. Essa célula roda as 3 funções definidas anteriormente na ordem que foram feitas para serem rodadas e indaga ao usuário qual será a entrada no dispositivo de buscas. Buscas especificas  (como uma linha retirada diretamente do abstract de um dos documentos ou um titulo de um documento) retornaram menos resultados, enquanto buscas mais genéricas (com um tema ou palavra) retornaram mais resultados. 
 
+## Exemplo 1
 
+![Captura de tela 2023-02-22 202126](https://user-images.githubusercontent.com/114251488/220789184-56de76f0-f157-4159-9d78-6f8a69cad6f2.png)
+![Captura de tela 2023-02-22 202337](https://user-images.githubusercontent.com/114251488/220789195-b5f1e86f-3b5f-4c14-b56f-755b
+
+## Exemplo 2
+
+![3](https://user-images.githubusercontent.com/114251488/220789510-9d8f29bc-fe3d-4415-bd6c-ae70a0c45fa2.png)
+3b31a5a5.png)
+![4](https://user-images.githubusercontent.com/114251488/220789515-1271277c-2039-4f02-a31e-d942f46fae5e.png)
 
 # Auxilio ChatGPT
 
