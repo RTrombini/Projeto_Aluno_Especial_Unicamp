@@ -15,6 +15,8 @@ O algoritmo proposto segue a seguinte ordem:
     - Recebe uma entrada do usuário e filtra as palavras-chave dessa entrada;
     - Realiza uma busca nos arquivos indexados pelos resultados que melhor batem com as palavras-chave entradas, utilizando o algoritmo BM25.
 
+**Link do Google Colab:** https://colab.research.google.com/drive/1iPEJTLyTjE7dViyguzUIhJWIL2Qagvv1?usp=sharing
+
 # Indice:
 
     - Information Retrieval
