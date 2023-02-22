@@ -130,7 +130,7 @@ Para rodar o projeto, basta executar a utlima célula do google Colab. Essa cél
 
 ![Captura de tela 2023-02-22 202126](https://user-images.githubusercontent.com/114251488/220789184-56de76f0-f157-4159-9d78-6f8a69cad6f2.png)
 
-![Captura de tela 2023-02-22 202337](https://user-images.githubusercontent.com/114251488/220789195-b5f1e86f-3b5f-4c14-b56f-755b
+![Captura de tela 2023-02-22 202337](https://user-images.githubusercontent.com/114251488/220790317-ba47fef8-52e9-49ec-a56d-d1db4ca4ecae.png)
 
 ## Exemplo 2
 
