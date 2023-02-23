@@ -1,4 +1,4 @@
-# Projeto Aluno Especial Unicamp
+# Projeto Aluno Especial Unicamp (Relatório)
 
 
 O projeto proposto para a seleção dos alunos especiais para a disciplina "Deep Learning aplicado a sistemas de buscas" foi o de um sistema de Information Retrieval utilizando o algoritmo BM25.
